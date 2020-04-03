@@ -1,0 +1,2 @@
+export const LOAD_DATA_FROM_LOCAL = 'LOAD_DATA_FROM_LOCAL';
+export const ADD_NEW_TODO_ITEM = 'ADD_NEW_TODO_ITEM';
