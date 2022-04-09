@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "expo": "^25.0.0",
-    "moment": "^2.21.0",
+    "moment": "^2.29.2",
     "react": "16.2.0",
     "react-addons-update": "^15.6.2",
     "react-native": "0.52.0",
